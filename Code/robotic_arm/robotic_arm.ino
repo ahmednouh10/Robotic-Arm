@@ -15,6 +15,7 @@ byte selectedMotor = 1;
 
 // Recording and playback variables
 struct Movement {
+  
   byte motor1;
   byte motor2;
   byte motor3;
